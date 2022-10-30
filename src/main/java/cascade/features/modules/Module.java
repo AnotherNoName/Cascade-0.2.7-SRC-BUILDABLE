@@ -7,7 +7,6 @@ import cascade.event.events.Render2DEvent;
 import cascade.event.events.Render3DEvent;
 import cascade.features.Feature;
 import cascade.features.modules.core.ClientManagement;
-import cascade.features.modules.misc.ChatBridge;
 import cascade.features.setting.Bind;
 import cascade.features.setting.Setting;
 import com.mojang.realmsclient.gui.ChatFormatting;
