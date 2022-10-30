@@ -58,7 +58,6 @@ public class ModuleManager extends Feature {
 
         /** MISC */
         mods.add(new AutoReply());
-        mods.add(new ChatBridge());
         mods.add(new ChorusPredict());
         mods.add(new EntityTrace());
         mods.add(new FakePlayer());
