@@ -38,11 +38,11 @@ public class ModuleManager extends Feature {
         /** COMBAT */
         mods.add(new Aura());
         mods.add(new AutoArmor());
+        mods.add(new AutoCrystal());
         mods.add(new Burrow());
         mods.add(new Crits());
         mods.add(new CascadeAura());
         mods.add(new HoleFiller());
-        mods.add(new HoleFillR());
         mods.add(new Offhand());
         mods.add(new Surround());
         mods.add(new TrapR());
@@ -69,7 +69,7 @@ public class ModuleManager extends Feature {
         mods.add(new NoInteract());
         mods.add(new NoSuffocation());
         mods.add(new Notifications());
-        //mods.add(new ToolTips());
+        mods.add(new ToolTips());
         mods.add(new TrueDurability());
 
         /** VISUAL */
@@ -84,12 +84,13 @@ public class ModuleManager extends Feature {
         mods.add(new HandChams());
         mods.add(new HitMarkers());
         mods.add(new HoleESP());
-        //mods.add(new Nametags());
+        mods.add(new Nametags());
         mods.add(new NoRender());
         mods.add(new OffscreenESP());
         mods.add(new ViewMod());
         mods.add(new Visual());
         mods.add(new PopChams());
+        mods.add(new ShaderChams());
         mods.add(new Crosshair());
 
         /** MOVEMENT */
@@ -100,6 +101,7 @@ public class ModuleManager extends Feature {
         mods.add(new FastSwim());
         mods.add(new Flight());
         mods.add(new HoleSnap());
+        mods.add(new HoleSnapR());
         mods.add(new LongJump());
         mods.add(new NoSlow());
         mods.add(new Sprint());
