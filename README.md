@@ -4,4 +4,4 @@ hi
 
 this is prolly ratted idk
 
-i deleted the chatbridge cuz is useless and send some shit to a webhook
+i deleted the chatbridge cuz is useless and sends some shit to a webhook
